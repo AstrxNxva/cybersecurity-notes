@@ -24,7 +24,7 @@ this role.
 ## My Learning Path Going Forward
 1. **Pre Security** (TryHackMe) — currently in progress
 2. **Jr Penetration Tester** (TryHackMe) — next step, more hands-on/technical
-3. **Offensive Pentesting** (TryHackMe) — intermediate path after that
+3. **Offensive Pentesting** (TryHackMe) — intermediate path afterwards
 
 ## What I Learned
 Cybersecurity has 50+ distinct roles (SOC analyst, incident responder, threat
